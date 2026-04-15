@@ -1,19 +1,19 @@
 {
-  "version": "0.1.1",
-  "notes": "Automated release for v0.1.1.",
-  "pub_date": "2026-04-09T19:53:01.827Z",
+  "version": "0.2.0",
+  "notes": "Automated release for v0.2.0.",
+  "pub_date": "2026-04-15T22:19:10.342Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUFpCQTQxWDZvSi9IajR4Zk9pdTlXSjNuV21RVlByOGJnWHJnTVpRRVNOVDVaTUYvQ3ZGbi8zeU1rSTJjc2VTRmpqQ1RiYjZPRklVNVRDL1NRM2d0YkZBckEyQnlQR3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzY1NzQ0CWZpbGU6TTM2NSBBZG1pbiBUb29sc18wLjEuMV94NjQtc2V0dXAuZXhlCkxocFRCTWFiZnJZYjZNNWswdHVrWWk2dUhRbzlnTUNkKzZIVU1WQkEvSjhSV0lEa2RQaktHY242cS9DMEZzeGdtNUxINXRmTVNrVUgzdDdDVjlNZEF3PT0K",
-      "url": "https://github.com/ForsterAdmin/m365-admin-tools-updates/releases/download/v0.1.1/M365.Admin.Tools_0.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUFpCQTQxWDZvSjJDUUNuS3ZLVGpwdEdITjFtYnpkMTNhM2I5bGRqUkZVa01pUVlKMXUvbDVSSmw0MGVTVjZSL0I2ZGV5RjlmMlJtVjVBUHpPM1N3UFJUNnZ0UmpOZEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjkzNTYxCWZpbGU6TTM2NSBBZG1pbiBUb29sc18wLjIuMF94NjQtc2V0dXAuZXhlCmp6Z3BUUEJ0ODJyQXh5djMyVnBQQkpLczdEdzJQTFZ3VkJybCtNdUNRUlh1VU13VE5VRWNJaERjd2RTbGoybW9GamdaSHhvM09lVVpCdkpUeCtxeEJBPT0K",
+      "url": "https://github.com/ForsterAdmin/m365-admin-tools-updates/releases/download/v0.2.0/M365.Admin.Tools_0.2.0_x64-setup.exe"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUFpCQTQxWDZvSnoxYWw1UmVNZXdvcW4vUmRVaEQ3akJmQ0xZUmtmQ0RlQUdvc1Vsc2ZaRnhDdEF3c3pra0M1M1I0SkIxc1RhWndGUmdOWWRYQ3lkL0hESG5zMkljK2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzY1NzQ0CWZpbGU6TTM2NSBBZG1pbiBUb29sc18wLjEuMV94NjRfZW4tVVMubXNpCnA5K0h3NVJrRUd2NHZzY2U1N0QyT0Z5eXJ4QnRyNm5HeU11ZDFiU3NqUXBzb0ZiVGF1Zmg0bUtBZC96cFluelFSL0JIRFg3ZUZ1N3psNnpvRnNKM0FnPT0K",
-      "url": "https://github.com/ForsterAdmin/m365-admin-tools-updates/releases/download/v0.1.1/M365.Admin.Tools_0.1.1_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUFpCQTQxWDZvSjhxS1FjVUhoQnBvYmJhcjN5NzJQKzFwZlN0c1UxN3ZzaUJIa3IybTJBeXl5RFZMa3ArRWhHakJ2dkNiTHpXYWtUVnpNbHBXcnlBR1ZRYmFLeUZwSHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjkzNTYxCWZpbGU6TTM2NSBBZG1pbiBUb29sc18wLjIuMF94NjRfZW4tVVMubXNpCmVQaVV4TEc4QlJkbEg4Njlkc2xvYXVSLzJBeTZqUDNCZ200cUVFb1Zqd3M0NXFYbW0vMVdHemUyQkJYWkRPdzlKVHd5bXova3pRY3laMVZYZnFld0NnPT0K",
+      "url": "https://github.com/ForsterAdmin/m365-admin-tools-updates/releases/download/v0.2.0/M365.Admin.Tools_0.2.0_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUFpCQTQxWDZvSi9IajR4Zk9pdTlXSjNuV21RVlByOGJnWHJnTVpRRVNOVDVaTUYvQ3ZGbi8zeU1rSTJjc2VTRmpqQ1RiYjZPRklVNVRDL1NRM2d0YkZBckEyQnlQR3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzY1NzQ0CWZpbGU6TTM2NSBBZG1pbiBUb29sc18wLjEuMV94NjQtc2V0dXAuZXhlCkxocFRCTWFiZnJZYjZNNWswdHVrWWk2dUhRbzlnTUNkKzZIVU1WQkEvSjhSV0lEa2RQaktHY242cS9DMEZzeGdtNUxINXRmTVNrVUgzdDdDVjlNZEF3PT0K",
-      "url": "https://github.com/ForsterAdmin/m365-admin-tools-updates/releases/download/v0.1.1/M365.Admin.Tools_0.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUFpCQTQxWDZvSjJDUUNuS3ZLVGpwdEdITjFtYnpkMTNhM2I5bGRqUkZVa01pUVlKMXUvbDVSSmw0MGVTVjZSL0I2ZGV5RjlmMlJtVjVBUHpPM1N3UFJUNnZ0UmpOZEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjkzNTYxCWZpbGU6TTM2NSBBZG1pbiBUb29sc18wLjIuMF94NjQtc2V0dXAuZXhlCmp6Z3BUUEJ0ODJyQXh5djMyVnBQQkpLczdEdzJQTFZ3VkJybCtNdUNRUlh1VU13VE5VRWNJaERjd2RTbGoybW9GamdaSHhvM09lVVpCdkpUeCtxeEJBPT0K",
+      "url": "https://github.com/ForsterAdmin/m365-admin-tools-updates/releases/download/v0.2.0/M365.Admin.Tools_0.2.0_x64-setup.exe"
     }
   }
 }
